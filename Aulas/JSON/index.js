@@ -48,6 +48,7 @@ function generateInvoice(invoiceProducts) {
 */
 
 // PERCORRER NOS OBJETOS
+/*
 let invoice = {
     name: "Ana",
     age: 25,
@@ -72,6 +73,8 @@ function generateInvoice(invoice) {
     for (let index in invoice.products) {
         // Acessa nome e preço do produto
         let [productName, productPrice] = invoice.products[index];
-        console.log(`Produto: ${productName}, Preço: R$${productPrice.toFixed(2)}`);
+        //console.log(`Produto: ${productName}, Preço: R$${productPrice.toFixed(2)}`);
+        console.log(`- ${productName}: R$ ${productPrice}`) // aqui é interpolação de strings
     }
 }
+*/
