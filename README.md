@@ -55,6 +55,8 @@ O layout é simples e clean, projetado para ser agradável aos olhos.
 ## 📚 Contribuições
 
 Esse projeto faz parte do desafio da **DIO** (Digital Innovation One). Se você tem sugestões ou melhorias, fique à vontade para contribuir! 💬
+Link - notion DIO: https://helpful-jump-17b.notion.site/9e254555044549dd815d3e05529cb0ef?v=53038049fb414bc3abd213b147affcf5
+Link - github: https://github.com/RuyLuques/desafio-git
 
 ## 💖 Agradecimentos
 
