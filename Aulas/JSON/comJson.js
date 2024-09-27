@@ -1,6 +1,6 @@
 
 // COM JSON
-/*
+
 let invoice = {
     name: "Ana",
     age: 25,
@@ -26,4 +26,3 @@ function generateInvoice(invoiceProducts) {
     console.log("O valor é " + invoiceProducts.products[2][1]);   // Valor do produto
 }
 
-*/

@@ -1,6 +1,6 @@
 
 // PERCORRER NOS OBJETOS
-/*
+
 let invoice = {
     name: "Ana",
     age: 25,
@@ -29,4 +29,3 @@ function generateInvoice(invoice) {
         console.log(`- ${productName}: R$ ${productPrice}`) // aqui é interpolação de strings
     }
 }
-*/

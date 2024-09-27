@@ -1,6 +1,5 @@
 // SEM JSON
 
- /*
 let name = "Ana";
 let age = 25;
 let products = ["Mouse", "Teclado", "Monitor 3"];
@@ -16,4 +15,4 @@ function generateInvoice(name, products, productsValues, age) {
 
 // Chama a função
 generateInvoice(name, products, productsValues, age);
-*/
+
