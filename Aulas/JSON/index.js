@@ -1,3 +1,23 @@
+// SEM JSON
+
+ /*
+let name = "Ana";
+let age = 25;
+let products = ["Mouse", "Teclado", "Monitor 3"];
+let productsValues = [29.99, 129.99, 899.99];
+
+function generateInvoice(name, products, productsValues, age) {
+  console.log("O comprador é " + name);
+  console.log("A idade é " + age);
+  console.log("----------------");
+  console.log("O produto é " + products[2]);
+  console.log("O valor é " + productsValues[2]);
+}
+
+// Chama a função
+generateInvoice(name, products, productsValues, age);
+*/
+
 // COM JSON
 let invoice = {
     name: "Ana",
@@ -23,3 +43,5 @@ function generateInvoice(invoiceProducts) {
     console.log("O produto é " + invoiceProducts.products[2][0]); // Nome do produto
     console.log("O valor é " + invoiceProducts.products[2][1]);   // Valor do produto
 }
+
+
